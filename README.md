@@ -1,22 +1,41 @@
-# Introduction to Programming — SDU
+# Introduction to Programming
 
-This repository contains my weekly exercises, coding challenges, and mini-projects from the **Introduction to Programming** course during my first semester of the Master's in Data Science & AI at the University of Southern Denmark (SDU).
+Notes, exercises, and programming examples from my **Introduction to Programming** course as part of my MSc in Data Science with a specialization in Artificial Intelligence at the University of Southern Denmark (SDU).
 
-The primary focus of this course is building a bulletproof foundation in core programming concepts, software design, and problem-solving using **Python**.
+This repository documents my progress in learning fundamental programming concepts and applying them through exercises and small programming tasks.
 
----
+## Topics
 
-### 📅 Weekly Learning Log
+The repository covers topics such as:
 
-*   **Week 01:** Getting Started and Arithmic.
-*   **Week 02:** Programming with Functions.
-*   **Week 03:** Wokring with Functions.
-*   **Week 04:** Choices.
-*   **Week 05:** Recursion on Numbers and String Operations.
-*   **Week 06:** Lists.
----
+- Variables, expressions, and data types
+- Conditional statements
+- Loops and iteration
+- Functions
+- Recursion
+- Strings and collections
+- File handling
+- Debugging and testing
+- Basic algorithmic thinking
+- Problem solving with Python
 
-### 🛠️ Tech & Tools Used
-- **Language:** Python 🐍
-- **Environment:** IDLE 
-- **Version Control:** Git & GitHub Desktop
+## Repository Structure
+
+The repository contains my personal course notes together with code examples and exercises.
+
+Notes are written to explain not only **how** something works, but also **why** it works, making this repository a reference I can return to throughout my studies.
+
+## Technologies
+
+- Python
+- IDLE
+- Git & GitHub
+- Markdown / Obsidian
+
+## About Me
+
+I am an MSc Data Science student specializing in **Artificial Intelligence** at the University of Southern Denmark (SDU).
+
+I use this repository both as a learning resource and as documentation of my development in programming and computer science.
+
+> **Note:** This repository contains personal study notes and solutions created while learning. It is not intended as official course material.
